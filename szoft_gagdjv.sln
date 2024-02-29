@@ -3,9 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.6.33815.320
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Szorzótábla", "Szorzótábla\Szorzótábla.csproj", "{41188144-5DDB-48E3-A7D8-A65CF1808028}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Szorzótábla", "Szorzótábla\Szorzótábla.csproj", "{41188144-5DDB-48E3-A7D8-A65CF1808028}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "fibonacci", "fibonacci\fibonacci.csproj", "{1C9B08BE-49F5-4A00-ACE1-4CF6AD2DC0B7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "fibonacci", "fibonacci\fibonacci.csproj", "{1C9B08BE-49F5-4A00-ACE1-4CF6AD2DC0B7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HarmadikOra", "HarmadikOra\HarmadikOra.csproj", "{69BB9C17-9576-40BC-8C3A-04FA773C7700}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Veletlenek", "Veletlenek\Veletlenek.csproj", "{D5D2C4A1-ECA9-4A34-8F86-DAF14C09EC5A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +25,14 @@ Global
 		{1C9B08BE-49F5-4A00-ACE1-4CF6AD2DC0B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1C9B08BE-49F5-4A00-ACE1-4CF6AD2DC0B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1C9B08BE-49F5-4A00-ACE1-4CF6AD2DC0B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69BB9C17-9576-40BC-8C3A-04FA773C7700}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69BB9C17-9576-40BC-8C3A-04FA773C7700}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69BB9C17-9576-40BC-8C3A-04FA773C7700}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69BB9C17-9576-40BC-8C3A-04FA773C7700}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D5D2C4A1-ECA9-4A34-8F86-DAF14C09EC5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5D2C4A1-ECA9-4A34-8F86-DAF14C09EC5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5D2C4A1-ECA9-4A34-8F86-DAF14C09EC5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5D2C4A1-ECA9-4A34-8F86-DAF14C09EC5A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
