@@ -7,9 +7,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Szorzótábla", "Szorzótá
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "fibonacci", "fibonacci\fibonacci.csproj", "{1C9B08BE-49F5-4A00-ACE1-4CF6AD2DC0B7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HarmadikOra", "HarmadikOra\HarmadikOra.csproj", "{69BB9C17-9576-40BC-8C3A-04FA773C7700}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HarmadikOra", "HarmadikOra\HarmadikOra.csproj", "{69BB9C17-9576-40BC-8C3A-04FA773C7700}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Veletlenek", "Veletlenek\Veletlenek.csproj", "{D5D2C4A1-ECA9-4A34-8F86-DAF14C09EC5A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Veletlenek", "Veletlenek\Veletlenek.csproj", "{D5D2C4A1-ECA9-4A34-8F86-DAF14C09EC5A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HajósTeszt", "HajósTeszt\HajósTeszt.csproj", "{7A285296-0C4F-49E2-BF3C-7913225B3465}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{D5D2C4A1-ECA9-4A34-8F86-DAF14C09EC5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D5D2C4A1-ECA9-4A34-8F86-DAF14C09EC5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D5D2C4A1-ECA9-4A34-8F86-DAF14C09EC5A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A285296-0C4F-49E2-BF3C-7913225B3465}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A285296-0C4F-49E2-BF3C-7913225B3465}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A285296-0C4F-49E2-BF3C-7913225B3465}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A285296-0C4F-49E2-BF3C-7913225B3465}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
